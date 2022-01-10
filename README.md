@@ -4,3 +4,5 @@ Kaggle conducts a Mercedes-Benz greener manufacturing challenge which focuses on
 
 Thus the objective of this problem is to accurately predict the test time of a car on the test bench given its features. By predicting test time exactly, the time spent by cars on the test bench could be optimized by Mercedes-Benz which overall optimizes time is taken, resources spent and carbon dioxide emitted.
 
+# Blog Link: 
+https://medium.com/@ashok.1055/mercedes-benz-greener-manufacturing-kaggle-competition-61d1c67f4a24
